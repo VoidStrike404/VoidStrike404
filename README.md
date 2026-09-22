@@ -33,11 +33,12 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008080?style=for-the-badge&logo=go&logoColor=white) |
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
 | **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 | **Architecture & Messaging** | ![Microservices](https://img.shields.io/badge/Architecture-Microservices-8A2BE2?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-24292e?style=for-the-badge&logo=grpc&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| **Quality & Observability** | ![Testing](https://img.shields.io/badge/Testing-Go_Test-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Observability](https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| **Quality & Observability** | ![Testing](https://img.shields.io/badge/Testing-Pytest_%26_Jest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Observability](https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
 
 </div>
 
